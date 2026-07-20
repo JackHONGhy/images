@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Mercado Libre">
+  <rect width="512" height="512" rx="96" fill="#FFE600"/>
+  <path d="M256 140c-50 0-90 38-90 86 0 62 70 126 90 146 20-20 90-84 90-146 0-48-40-86-90-86z" fill="#2D3277"/>
+  <circle cx="230" cy="210" r="14" fill="#FFE600"/>
+  <circle cx="282" cy="210" r="14" fill="#FFE600"/>
+</svg>
