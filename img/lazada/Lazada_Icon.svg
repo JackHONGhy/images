@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Lazada">
+  <rect width="512" height="512" rx="96" fill="#0F146D"/>
+  <circle cx="256" cy="200" r="72" fill="#F57224"/>
+  <path d="M160 320c40-48 152-48 192 0v48c-40 40-152 40-192 0v-48z" fill="#F57224"/>
+  <text x="256" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">Lazada</text>
+</svg>
