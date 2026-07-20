@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" role="img" aria-label="Mercado Libre">
+  <rect width="900" height="200" rx="24" fill="#FFE600"/>
+  <path d="M90 55c-28 0-50 21-50 48 0 34 39 70 50 81 11-11 50-47 50-81 0-27-22-48-50-48z" fill="#2D3277"/>
+  <circle cx="76" cy="95" r="7" fill="#FFE600"/>
+  <circle cx="104" cy="95" r="7" fill="#FFE600"/>
+  <text x="520" y="125" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#2D3277">Mercado Libre</text>
+</svg>
