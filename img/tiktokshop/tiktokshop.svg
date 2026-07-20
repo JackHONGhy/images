@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" role="img" aria-label="TikTok Shop">
+  <rect width="720" height="200" rx="24" fill="#000000"/>
+  <!-- simplified note using overlapping cyan/red/black like TikTok -->
+  <g transform="translate(40,40)">
+    <path d="M72 20c8 18 22 30 42 34v22c-14-2-26-8-36-16v52c0 28-22 50-50 50S-22 140  -22 112s22-50 50-50c4 0 8.5.5 12 1.5V88c-3.5-1-7.5-1.5-12-1.5-16 0-28 12-28 28s12 28 28 28 28-12 28-28V20h24z" fill="#25F4EE" transform="translate(30,0)"/>
+    <path d="M72 20c8 18 22 30 42 34v22c-14-2-26-8-36-16v52c0 28-22 50-50 50S-22 140  -22 112s22-50 50-50c4 0 8.5.5 12 1.5V88c-3.5-1-7.5-1.5-12-1.5-16 0-28 12-28 28s12 28 28 28 28-12 28-28V20h24z" fill="#FE2C55" transform="translate(22,8)"/>
+    <path d="M72 20c8 18 22 30 42 34v22c-14-2-26-8-36-16v52c0 28-22 50-50 50S-22 140  -22 112s22-50 50-50c4 0 8.5.5 12 1.5V88c-3.5-1-7.5-1.5-12-1.5-16 0-28 12-28 28s12 28 28 28 28-12 28-28V20h24z" fill="#FFFFFF" transform="translate(26,4)"/>
+  </g>
+  <text x="430" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">TikTok Shop</text>
+</svg>
